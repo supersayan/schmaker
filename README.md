@@ -1,6 +1,6 @@
 # schmaker
 Schedule Maker for NCSSM 2016-17,
-working link @ [yandtt.com/schmaker](http://yandtt.com/schmaker)
+~~working link @ [yandtt.com/schmaker](http://yandtt.com/schmaker)~~ deprecated
 
 ## index.html
 table for blank timetable
